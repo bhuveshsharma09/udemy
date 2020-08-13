@@ -1,0 +1,7 @@
+machine learning,statistical model,deep learning,data mining,python,r 
+xgboost,excel,cnn,numpy,numpy,glm
+random forest,mle,,pandas,pandas,glmnet
+mathematics,glm,,sklearn,sklearn,nls
+,glmnet,,,cnn,mle
+,nls,,,,xgboost
+,,,,,randomforest
